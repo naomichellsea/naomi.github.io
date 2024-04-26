@@ -29,7 +29,7 @@ header {
     height: 145px; /* Adjust the height of the logo as needed */
 }
 .logo-img:hover { /* Change image on hover */
-    content: url('my website items/Original.png'); 
+    content: url('websiteitems/Original.png'); 
 }
 
 .menu {
@@ -524,7 +524,7 @@ h2 {
 .big-rectangle {
     width: 100%;
     height: 300px; 
-    background-image: url('/websiteitems/IMG_6200.jpg'); /* Background image */
+    background-image: url('websiteitems/IMG_6200.jpg'); /* Background image */
     background-size: cover; /* Cover the entire container */
     background-position: center;
     border-radius: 10px;
