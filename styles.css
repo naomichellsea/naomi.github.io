@@ -29,7 +29,7 @@ header {
     height: 145px; /* Adjust the height of the logo as needed */
 }
 .logo-img:hover { /* Change image on hover */
-    content: url('my website items/Original.png'); 
+    content: url('/my website items/Original.png'); 
 }
 
 .menu {
