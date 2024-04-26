@@ -162,7 +162,7 @@ header {
     height: 100%; 
     max-width: 390px; /* Set a maximum width for responsiveness */
     max-height: 390px; /* Set a maximum height for responsiveness */
-    background-image: url('/Users/naomichellsea/my website items/—Pngtree—camera screen interface design_4985759.png'); 
+    background-image: url('websiteitems/—Pngtree—camera screen interface design_4985759.png'); 
     background-size: contain;
     background-position: center;
     opacity: 0.5; /* Adjust opacity as needed */
@@ -458,22 +458,22 @@ h2 {
 }
 
 .iphone1 { /* png image for 4 iphone overlays */
-    background-image: url('/Users/naomichellsea/my website items/iphone.png'); 
+    background-image: url('websiteitems/iphone.png'); 
     transform: translateY(-50px) rotate(-10deg); /* Adjust translation and rotation */
 }
 
 .iphone2 {
-    background-image: url('/Users/naomichellsea/my website items/iphone.png'); 
+    background-image: url('websiteitems/iphone.png'); 
     transform: translateY(-100px) rotate(-5deg); 
 }
 
 .iphone3 {
-    background-image: url('/Users/naomichellsea/my website items/iphone.png'); /* png image for overlay */
+    background-image: url('websiteitems/iphone.png'); /* png image for overlay */
     transform: translateY(-100px) rotate(5deg);
 }
 
 .iphone4 {
-    background-image: url('/Users/naomichellsea/my website items/iphone.png'); 
+    background-image: url('websiteitems/iphone.png'); 
     transform: translateY(-50px) rotate(10deg); 
 }
 .photography {
